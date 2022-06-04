@@ -14,8 +14,4 @@
      limitations under the License.
 -->
 <permissions>
-    <split-permission name="com.google.android.gms.permission.ACTIVITY_RECOGNITION"
-                      targetSdk="29">
-        <new-permission name="android.permission.ACTIVITY_RECOGNITION" />
-    </split-permission>
 </permissions>

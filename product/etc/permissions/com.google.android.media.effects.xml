@@ -15,7 +15,5 @@
 -->
 
 <permissions>
-    <library name="com.google.android.media.effects"
-            file="/product/framework/com.google.android.media.effects.jar" />
 
 </permissions>
